@@ -1,3 +1,3 @@
 # OrangeHRM-Demo-
 
-Software Testing Project Selenium with Java.....
+Software Testing Project Selenium with Java
